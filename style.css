@@ -1,0 +1,14 @@
+.col-2{
+    background-color: lightgray;
+}
+body{
+    color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 60px;
+    background-color: pink;
+    
+}
+
+.jumbotron{
+    background-color: pink;
+}
